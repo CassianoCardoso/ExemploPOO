@@ -1,0 +1,15 @@
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Programação Orientado Objeto\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
